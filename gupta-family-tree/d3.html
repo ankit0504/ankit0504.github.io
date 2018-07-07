@@ -31,10 +31,10 @@ var svg = d3.select("body").append("svg")
   .append("g")
     .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
 
-d3.json(" chadhaFamily.json", function(error,  chadhaFamily) {
+d3.json(" guptaFamily.json", function(error,  guptaFamily) {
   if (error) throw error;
 
-  root =  chadhaFamily;
+  root =  guptaFamily;
   root.x0 = height / 2;
   root.y0 = 0;
 
