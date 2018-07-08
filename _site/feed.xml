@@ -1,25 +1,20 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-07-08T14:29:37-04:00</updated><id>http://localhost:4000/</id><title type="html">Ankit Gupta</title><entry><title type="html">:evergreen_tree: Family Tree</title><link href="http://localhost:4000/indigo-jekyll-theme/" rel="alternate" type="text/html" title=":evergreen_tree: Family Tree" /><published>2018-07-08T10:10:00-04:00</published><updated>2018-07-08T10:10:00-04:00</updated><id>http://localhost:4000/indigo-jekyll-theme</id><content type="html" xml:base="http://localhost:4000/indigo-jekyll-theme/">&lt;p&gt;&lt;img src=&quot;https://ankit.tech/assets/images/GuptaScreenshot.png&quot; alt=&quot;Screenshot&quot; /&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-07-08T14:37:08-04:00</updated><id>http://localhost:4000/</id><title type="html">Ankit Gupta</title><entry><title type="html">:evergreen_tree: Family Tree</title><link href="http://localhost:4000/gupta-family/" rel="alternate" type="text/html" title=":evergreen_tree: Family Tree" /><published>2018-07-08T10:10:00-04:00</published><updated>2018-07-08T10:10:00-04:00</updated><id>http://localhost:4000/gupta-family</id><content type="html" xml:base="http://localhost:4000/gupta-family/">&lt;p&gt;&lt;img src=&quot;https://ankit.tech/assets/images/GuptaScreenshot.png&quot; alt=&quot;Screenshot&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Example of project - Collapsable Family Tree - &lt;a href=&quot;http://sergiokopplin.github.io/indigo/&quot;&gt;Demo&lt;/a&gt;. This is a simple and minimalist template for Jekyll for those who likes to eat noodles.&lt;/p&gt;
+&lt;!-- Example of project - Collapsable Family Tree - [Demo](http://ankit.tech/gupta-family-tree/d3.html).
 
-&lt;hr /&gt;
+--- --&gt;
 
 &lt;p&gt;What has inside?&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;Gulp&lt;/li&gt;
-  &lt;li&gt;BrowserSync&lt;/li&gt;
-  &lt;li&gt;Stylus&lt;/li&gt;
-  &lt;li&gt;SVG&lt;/li&gt;
-  &lt;li&gt;Travis&lt;/li&gt;
-  &lt;li&gt;No JS&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://developers.google.com/speed/pagespeed/insights/?url=http%3A%2F%2Fsergiokopplin.github.io%2Findigo%2F&quot;&gt;98/100&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;D3&lt;/li&gt;
+  &lt;li&gt;HTML&lt;/li&gt;
+  &lt;li&gt;CSS&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;hr /&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://sergiokopplin.github.io/indigo/&quot;&gt;Check it out&lt;/a&gt; here.
-If you need some help, just &lt;a href=&quot;http://github.com/sergiokopplin/indigo/issues&quot;&gt;tell me&lt;/a&gt;.&lt;/p&gt;</content><author><name>ankitgupta</name></author><category term="project" /><category term="jekyll" /><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/GuptaScreenshot.png" /></entry><entry><title type="html">Markdown Common Elements</title><link href="http://localhost:4000/markdown-common-elements/" rel="alternate" type="text/html" title="Markdown Common Elements" /><published>2016-02-24T22:44:00-05:00</published><updated>2016-02-24T22:44:00-05:00</updated><id>http://localhost:4000/markdown-common-elements</id><content type="html" xml:base="http://localhost:4000/markdown-common-elements/">&lt;h2 id=&quot;summary&quot;&gt;Summary:&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;http://ankit.tech/gupta-family-tree/d3.html&quot;&gt;Check it out&lt;/a&gt; here.&lt;/p&gt;</content><author><name>ankitgupta</name></author><category term="project" /><category term="D3" /><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/GuptaScreenshot.png" /></entry><entry><title type="html">Markdown Common Elements</title><link href="http://localhost:4000/markdown-common-elements/" rel="alternate" type="text/html" title="Markdown Common Elements" /><published>2016-02-24T22:44:00-05:00</published><updated>2016-02-24T22:44:00-05:00</updated><id>http://localhost:4000/markdown-common-elements</id><content type="html" xml:base="http://localhost:4000/markdown-common-elements/">&lt;h2 id=&quot;summary&quot;&gt;Summary:&lt;/h2&gt;
 
 &lt;p&gt;You can pick as item to see how to apply in markdown.&lt;/p&gt;
 

@@ -1,0 +1,228 @@
+{
+  "name": "Raghunath Rai Gupta",
+  "spouse": "?",
+  "icon": "./static/default.png",
+  "children": [
+    {
+      "name": "Basant Rai Gupta",
+      "spouse": "?",
+      "icon": "./static/default.png",
+      "children": [
+        {
+          "name": "Ramji Das Gupta",
+          "spouse": "?",
+          "icon": "./static/default.png",
+          "children": [
+            {
+              "name": "Kul Bhushan Gupta",
+              "spouse": "?",
+              "icon": "./static/default.png",
+              "children": [
+                {
+                  "name": "Sat Pal Gupta",
+                  "spouse": "?",
+                  "icon": "./static/default.png"
+                },
+                {
+                  "name": "Usha Gupta",
+                  "spouse": "?",
+                  "icon": "./static/default.png"
+                },
+                {
+                  "name": "Mahinder Pal Gupta",
+                  "spouse": "?",
+                  "icon": "./static/default.png"
+                },
+                {
+                  "name": "Shiela Gupta",
+                  "spouse": "?",
+                  "icon": "./static/default.png"
+                },
+                {
+                  "name": "Yoginder Pal",
+                  "spouse": "?",
+                  "icon": "./static/default.png"
+                }
+              ]
+            },
+            {
+              "name": "Bhagwan Das Gupta",
+              "spouse": "?",
+              "icon": "./static/default.png"
+            },
+            {
+              "name": "Dev Bhushan",
+              "spouse": "?",
+              "icon": "./static/default.png"
+            }
+          ]
+        },
+        {
+          "name": "Harji Dass Gupta",
+          "spouse": "?",
+          "icon": "./static/default.png",
+          "children": [
+            {
+              "name": "Sat Bhushan",
+              "spouse": "?",
+              "icon": "./static/default.png",
+              "children": [
+                {
+                  "name": "Satish Chandra Gupta",
+                  "spouse": "Veena Gupta",
+                  "icon": "./static/satishChandraGupta.png",
+                  "children": [
+                    {
+                      "name": "Rajat Gupta",
+                      "spouse": "Vanita Chadha Gupta",
+                      "icon": "./static/rajatGupta.jpg",
+                      "children": [
+                        {
+                          "name": "Anushka Gupta",
+                          "spouse": "-",
+                          "icon": "./static/anushkaGupta.jpg"
+                        },
+                        {
+                          "name": "Ankit Gupta",
+                          "spouse": "-",
+                          "icon": "./static/ankitGupta.png"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Rohit Gupta",
+                      "spouse": "Preeti Gupta",
+                      "icon": "./static/rohitGupta.jpg",
+                      "children": [
+                        {
+                          "name": "Arnav Gupta",
+                          "spouse": "-",
+                          "icon": "./static/arnavGupta.png"
+                        },
+                        {
+                          "name": "Mishika Gupta",
+                          "spouse": "-",
+                          "icon": "./static/mishikaGupta.png"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "Harish Chander",
+                  "spouse": "?",
+                  "icon": "./static/default.png",
+                  "children": [
+                    {
+                      "name": "Ameet Chander",
+                      "spouse": "Palak Chander",
+                      "icon": "./static/default.png"
+                    },
+                    {
+                      "name": "Sumeet Chander",
+                      "spouse": "?",
+                      "icon": "./static/default.png"
+                    }
+                  ]
+                },
+                {
+                  "name": "Asha Gupta",
+                  "spouse": "?",
+                  "icon": "./static/default.png",
+                  "children": [
+                    {
+                      "name": "Raju",
+                      "spouse": "?",
+                      "icon": "./static/default.png"
+                    },
+                    {
+                      "name": "Neera",
+                      "spouse": "?",
+                      "icon": "./static/default.png"
+                    },
+                    {
+                      "name": "Shalu",
+                      "spouse": "?",
+                      "icon": "./static/default.png"
+                    }
+                  ]
+                },
+                {
+                  "name": "Saroj Gupta",
+                  "spouse": "?",
+                  "icon": "./static/default.png",
+                  "children": [
+                    {
+                      "name": "Reema Gupta",
+                      "spouse": "?",
+                      "icon": "./static/default.png"
+                    },
+                    {
+                      "name": "Shaili Gupta",
+                      "spouse": "?",
+                      "icon": "./static/default.png"
+                    },
+                    {
+                      "name": "Sahil Gupta",
+                      "spouse": "?",
+                      "icon": "./static/default.png"
+                    }
+                  ]
+                },
+                {
+                  "name": "Suresh Chander",
+                  "spouse": "?",
+                  "icon": "./static/default.png",
+                  "children": [
+                    {
+                      "name": "Nidhi Saini",
+                      "spouse": "?",
+                      "icon": "./static/default.png"
+                    },
+                    {
+                      "name": "Sugandha Bansal",
+                      "spouse": "?",
+                      "icon": "./static/default.png"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Kaushalya Gupta",
+              "spouse": "?",
+              "icon": "./static/default.png"
+            },
+            {
+              "name": "Shanta Gupta",
+              "spouse": "?",
+              "icon": "./static/default.png"
+            },
+            {
+              "name": "Gian Bhushan Gupta",
+              "spouse": "?",
+              "icon": "./static/default.png",
+              "children": [
+                {
+                  "name": "Alok Gupta",
+                  "spouse": "?",
+                  "icon": "./static/default.png"
+                },
+                {
+                  "name": "Alka Gupta",
+                  "spouse": "?",
+                  "icon": "./static/default.png"
+                },
+                {
+                  "name": "Alpana Gupta",
+                  "spouse": "?",
+                  "icon": "./static/default.png"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
