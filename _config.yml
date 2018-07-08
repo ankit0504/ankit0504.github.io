@@ -54,7 +54,7 @@ github: Ankit0504
 email: a.gupta@wustl.edu
 
 authors:
-    johndoe:
+    ankitgupta:
         name: Ankit Gupta
         bio: Computer Science Major, Washington University in St. Louis
         external-image: false
@@ -78,7 +78,7 @@ about: true
 # blog: true
 
 # do you want to show the "read time" of the posts?
-read-time: true
+read-time: false
 
 # do you want to show the "tags" inside the posts?
 show-tags: true

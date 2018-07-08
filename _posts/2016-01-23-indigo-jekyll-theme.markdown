@@ -1,19 +1,19 @@
 ---
-title: ":ramen: Indigo, minimalist jekyll theme"
+title: ":evergreen_tree: Family Tree"
 layout: post
-date: 2016-01-23 22:10
+date: 2018-07-08 10:10
 tag: jekyll
-image: https://koppl.in/indigo/assets/images/jekyll-logo-light-solid.png
+image: ../assets/images/GuptaScreenshot.png
 headerImage: true
 projects: true
 hidden: true # don't count this post in blog pagination
-description: "This is a simple and minimalist template for Jekyll for those who likes to eat noodles."
+description: "This is a simple, collapsable family tree that I made using D3"
 category: project
-author: johndoe
+author: ankitgupta
 externalLink: false
 ---
 
-![Screenshot](https://raw.githubusercontent.com/sergiokopplin/indigo/gh-pages/assets/screen-shot.png)
+![Screenshot](https://ankit.tech/assets/images/GuptaScreenshot.png)
 
 Example of project - Indigo Minimalist Jekyll Template - [Demo](http://sergiokopplin.github.io/indigo/). This is a simple and minimalist template for Jekyll for those who likes to eat noodles.
 
