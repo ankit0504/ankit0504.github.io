@@ -4,11 +4,11 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>I am a student at Washington University in St. Louis obtaining a degree in computer science. I am striving to obtain a second major in economics and a minor in mathematics.</p>
+I am a student in The School of Engineering & Applied Science at Washington University in St. Louis obtaining a degree in computer science. I am also working towards earning a second major in economics and a minor in mathematics, both from the school of Arts & Sciences.
 
-<p>I was born in the United Kingdom and moved to the White Plains, NY when I was just a few months old. Since then, I have become a fan of hockey, tennis, and cricket.</p>
+I was born in the United Kingdom and moved to the White Plains, NY when I was just a few months old. Since then, I have become a fan of hockey, tennis, and cricket.
 
-This summer, I am working as an intern at [Crossbeam](https://www.getcrossbeam.com), a startup in Philadelphia.
+This summer, I am working as an intern at [Crossbeam](https://www.getcrossbeam.com), a startup in Philadelphia. During the school year, I work as a teaching assistant (TA) in various computer science courses. I previously TA'd in the introductory course, but will be a TA for Logic & Discrete Math, and Data Structures & Algorithms this fall semester.
 
 <h2>Skills</h2>
 

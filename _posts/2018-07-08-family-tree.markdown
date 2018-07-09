@@ -3,7 +3,7 @@ title: ":evergreen_tree: Family Tree"
 layout: post
 date: 2018-07-08 10:10
 tag: D3
-image: ../assets/images/GuptaScreenshot.png
+# image: ../assets/images/GuptaScreenshot.png
 headerImage: true
 projects: true
 hidden: true # don't count this post in blog pagination
@@ -19,14 +19,14 @@ externalLink: false
 
 --- -->
 
-What has inside?
+Technology used:
 
+- Javascript
 - D3
-- HTML
 - CSS
 
 ---
-
-[Check it out](http://ankit.tech/gupta-family-tree/d3.html) here.
-[Check it out](http://ankit.tech/chadha-family-tree/d3.html) here.
+I have made two family trees using the same technology. One stems from an ancestor on my paternal grandfather's side of my family (Gupta), and the other stems from an ancestor on my maternal grandfather's side of the family (Chadha).<br/>
+[Gupta Family Tree](http://ankit.tech/gupta-family-tree/d3.html)<br/>
+[Chadha Family Tree](http://ankit.tech/chadha-family-tree/d3.html)
 
