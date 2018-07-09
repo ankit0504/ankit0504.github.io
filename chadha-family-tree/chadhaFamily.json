@@ -1,0 +1,495 @@
+{
+  "name": "Bhawani Sahay Chadha",
+  "spouse": "?",
+  "icon": "./static/default.png",
+  "children": [
+    {
+      "name": "Jwala Sahay Chadha",
+      "spouse": "?",
+      "icon": "./static/default.png",
+      "children": [
+        {
+          "name": "Radha Krishan Chadha",
+          "spouse": "?",
+          "icon": "./static/default.png",
+          "children": [
+            {
+              "name": "Nain Sukh Chadha",
+              "spouse": "?",
+              "icon": "./static/default.png",
+              "children": [
+                {
+                  "name": "Boote Shah Chadha",
+                  "spouse": "Ganga Devi Bhasin",
+                  "icon": "./static/default.png",
+                  "children": [
+                    {
+                      "name": "Durga Devi Chadha",
+                      "spouse": "Lahori Shah Kohli",
+                      "icon": "./static/default.png",
+                      "children": [
+                        {
+                          "name": "Balram Kohli",
+                          "spouse": "Raj Kumari Chadha",
+                          "icon": "./static/default.png",
+                          "children": [
+                            {
+                              "name": "Anjali Kohli",
+                              "spouse": "Deepak Mirchandani",
+                              "icon": "./static/default.png",
+                              "children": [
+                                {
+                                  "name": "Nikhil Mirchandani",
+                                  "spouse": "?",
+                                  "icon": "./static/default.png"
+                                },
+                                {
+                                  "name": "Shrishthi Mirchandani",
+                                  "spouse": "-",
+                                  "icon": "./static/default.png"
+                                },
+                                {
+                                  "name": "Akash Mirchandani",
+                                  "spouse": "-",
+                                  "icon": "./static/default.png"
+                                }
+                              ]
+                            },
+                            {
+                              "name": "Anita Kohli",
+                              "spouse": "Bhuvnish Luthra",
+                              "icon": "./static/default.png",
+                              "children": [
+                                {
+                                  "name": "Karishma Luthra",
+                                  "spouse": "-",
+                                  "icon": "./static/default.png"
+                                }
+                              ]
+                            },
+                            {
+                              "name": "Anandita Kohli",
+                              "spouse": "Vicky Oberoi",
+                              "icon": "./static/default.png"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Mulakh Raj Chadha",
+                      "spouse": "Ram Rakhi?",
+                      "icon": "./static/default.png",
+                      "children": [
+                        {
+                          "name": "Ram Prakash Chadha",
+                          "spouse": "Satya Rani Kohli",
+                          "icon": "./static/default.png",
+                          "children": [
+                            {
+                              "name": "Manoj Kumar Chadha",
+                              "spouse": "Anita Sethi",
+                              "icon": "./static/default.png",
+                              "children": [
+                                {
+                                  "name": "Gaurav Chadha",
+                                  "spouse": "Richa Kathuria",
+                                  "icon": "./static/default.png",
+                                  "children": [
+                                    {
+                                      "name": "Amogh Chadha",
+                                      "spouse": "-",
+                                      "icon": "./static/default.png"
+                                    },
+                                    {
+                                      "name": "Ayansh Chadha",
+                                      "spouse": "-",
+                                      "icon": "./static/default.png"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "name": "Pooja Chadha",
+                                  "spouse": "Rishi Chatrath",
+                                  "icon": "./static/default.png",
+                                  "children": [
+                                    {
+                                      "name": "Hriday Chatrath",
+                                      "spouse": "-",
+                                      "icon": "./static/default.png"
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "name": "Praveen Kumar Chadha",
+                              "spouse": "Madhu Sethi",
+                              "icon": "./static/default.png",
+                              "children": [
+                                {
+                                  "name": "Vipul Chadha",
+                                  "spouse": "Ruchi Batra",
+                                  "icon": "./static/default.png"
+                                },
+                                {
+                                  "name": "Jeevika Chadha",
+                                  "spouse": "Archit Kataria",
+                                  "icon": "./static/default.png",
+                                  "children": [
+                                    {
+                                      "name": "Darsh Chadha",
+                                      "spouse": "-",
+                                      "icon": "./static/default.png"
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "name": "Naveen Kumar Chadha",
+                              "spouse": "Diksha Bhasin",
+                              "icon": "./static/default.png",
+                              "children": [
+                                {
+                                  "name": "Suruchi Chadha",
+                                  "spouse": "-",
+                                  "icon": "./static/default.png"
+                                },
+                                {
+                                  "name": "Aanchal Chadha",
+                                  "spouse": "-",
+                                  "icon": "./static/default.png"
+                                }
+                              ]
+                            },
+                            {
+                              "name": "Arun Kumar Chadha",
+                              "spouse": "Anoop Chopra",
+                              "icon": "./static/default.png",
+                              "children": [
+                                {
+                                  "name": "Akshay Chadha",
+                                  "spouse": "-",
+                                  "icon": "./static/default.png"
+                                },
+                                {
+                                  "name": "Karan Chadha",
+                                  "spouse": "-",
+                                  "icon": "./static/default.png"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Swarn Chadha",
+                          "spouse": "Chaman Lal Bhasin",
+                          "icon": "./static/default.png",
+                          "children": [
+                            {
+                              "name": "Lokesh Bhasin",
+                              "spouse": "Anuradha Malhotra",
+                              "icon": "./static/default.png",
+                              "children": [
+                                {
+                                  "name": "Priya Bhasin",
+                                  "spouse": "-",
+                                  "icon": "./static/default.png"
+                                },
+                                {
+                                  "name": "Samriddhi Bhasin",
+                                  "spouse": "-",
+                                  "icon": "./static/default.png"
+                                }
+                              ]
+                            },
+                            {
+                              "name": "Poonam Chadha",
+                              "spouse": "Manish Gupta",
+                              "icon": "./static/default.png",
+                              "children": [
+                                {
+                                  "name": "Sarvesh Bhasin",
+                                  "spouse": "-",
+                                  "icon": "./static/default.png"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Durga Das Chadha",
+                      "spouse": "Krishna Rani Anand",
+                      "icon": "./static/default.png",
+                      "children": [
+                        {
+                          "name": "Rajinder Chadha",
+                          "spouse": "Indu ?",
+                          "icon": "./static/default.png",
+                          "children": [
+                            {
+                              "name": "Raman Chadha",
+                              "spouse": "Sangeeta ?",
+                              "icon": "./static/default.png"
+                            },
+                            {
+                              "name": "Seema Chadha",
+                              "spouse": "Sanjay Sud",
+                              "icon": "./static/default.png"
+                            },
+                            {
+                              "name": "Anu Chadha",
+                              "spouse": "? Khanna",
+                              "icon": "./static/default.png"
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Satish Chadha",
+                          "spouse": "Champa ?",
+                          "icon": "./static/default.png",
+                          "children": [
+                            {
+                              "name": "Rajat Chadha",
+                              "spouse": "Monica ?",
+                              "icon": "./static/default.png",
+                              "children": [
+                                {
+                                  "name": "Janhavi Chadha",
+                                  "spouse": "-",
+                                  "icon": "./static/default.png"
+                                },
+                                {
+                                  "name": "Shiv Chadha",
+                                  "spouse": "-",
+                                  "icon": "./static/default.png"
+                                }
+                              ]
+                            },
+                            {
+                              "name": "Anshu Chadha",
+                              "spouse": "? Sahni",
+                              "icon": "./static/default.png"
+                            },
+                            {
+                              "name": "Gesu Chadha",
+                              "spouse": "?",
+                              "icon": "./static/default.png"
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Sneh Prabha Chadha",
+                          "spouse": "Baldev Kumar Sethi",
+                          "icon": "./static/default.png",
+                          "children": [
+                            {
+                              "name": "Sameer Sethi",
+                              "spouse": "Tina ?",
+                              "icon": "./static/default.png"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Kundan Lal Chadha",
+                      "spouse": "Leela Wati Kohli",
+                      "icon": "./static/default.png",
+                      "children": [
+                        {
+                          "name": "Ved Prakash Chadha",
+                          "spouse": "Sudesh Suri",
+                          "icon": "./static/default.png",
+                          "children": [
+                            {
+                              "name": "Mamta Chadha",
+                              "spouse": "Sudhir Sethi",
+                              "icon": "./static/default.png",
+                              "children": [
+                                {
+                                  "name": "Sidharth Sethi",
+                                  "spouse": "-",
+                                  "icon": "./static/default.png"
+                                },
+                                {
+                                  "name": "Pranay Sethi",
+                                  "spouse": "-",
+                                  "icon": "./static/default.png"
+                                }
+                              ]
+                            },
+                            {
+                              "name": "Sandeep Chadha",
+                              "spouse": "Shalu Kawatra",
+                              "icon": "./static/default.png",
+                              "children": [
+                                {
+                                  "name": "Shivika Chadha",
+                                  "spouse": "-",
+                                  "icon": "./static/default.png"
+                                },
+                                {
+                                  "name": "Vihaan Chadha",
+                                  "spouse": "-",
+                                  "icon": "./static/default.png"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Bharat Bhushan Chadha",
+                          "spouse": "Chandra Kanta Bhasin",
+                          "icon": "./static/bharatBhushanChadha.jpg",
+                          "children": [
+                            {
+                              "name": "Vanita Chadha Gupta",
+                              "spouse": "Rajat Gupta",
+                              "icon": "./static/vanitaChadhaGupta.jpg",
+                              "children": [
+                                {
+                                  "name": "Anushka Gupta",
+                                  "spouse": "-",
+                                  "icon": "./static/anushkaGupta.jpg"
+                                },
+                                {
+                                  "name": "Ankit Gupta",
+                                  "spouse": "-",
+                                  "icon": "./static/ankitGupta.png"
+                                }
+                              ]
+                            },
+                            {
+                              "name": "Hiten Chadha",
+                              "spouse": "Shivani Bhat",
+                              "icon": "./static/hitenChadha.jpg",
+                              "children": [
+                                {
+                                  "name": "Rushil Chadha",
+                                  "spouse": "-",
+                                  "icon": "./static/rushilChadha.png"
+                                },
+                                {
+                                  "name": "Reet Chadha",
+                                  "spouse": "-",
+                                  "icon": "./static/reetChadha.png"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Sneh Lata Anand",
+                          "spouse": "Surinder Kumar Anand",
+                          "icon": "./static/default.png",
+                          "children": [
+                            {
+                              "name": "Vikas Anand",
+                              "spouse": "Seema Arora",
+                              "icon": "./static/default.png",
+                              "children": [
+                                {
+                                  "name": "Mayank Anand",
+                                  "spouse": "-",
+                                  "icon": "./static/default.png"
+                                },
+                                {
+                                  "name": "Vaibhav Anand",
+                                  "spouse": "-",
+                                  "icon": "./static/default.png"
+                                }
+                              ]
+                            },
+                            {
+                              "name": "Monica Anand",
+                              "spouse": "Mohit Seigall",
+                              "icon": "./static/default.png",
+                              "children": [
+                                {
+                                  "name": "Sunakshi Seigall",
+                                  "spouse": "-",
+                                  "icon": "./static/default.png"
+                                },
+                                {
+                                  "name": "Veidant Seigall",
+                                  "spouse": "-",
+                                  "icon": "./static/default.png"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Chaman Lal Chadha",
+                      "spouse": "Shiela Rani Anand",
+                      "icon": "./static/default.png",
+                      "children": [
+                        {
+                          "name": "Kamlesh Chadha",
+                          "spouse": "Shyam Lal",
+                          "icon": "./static/default.png"
+                        },
+                        {
+                          "name": "Shashi Chadha",
+                          "spouse": "Yash Pal Anand",
+                          "icon": "./static/default.png"
+                        },
+                        {
+                          "name": "Parvesh Chadha",
+                          "spouse": "Renu ?",
+                          "icon": "./static/default.png",
+                          "children": [
+                            {
+                              "name": "Ankur Chadha",
+                              "spouse": "Dinesh Nagpal",
+                              "icon": "./static/default.png",
+                              "children": [
+                                {
+                                  "name": "Raunak Nagpal",
+                                  "spouse": "-",
+                                  "icon": "./static/default.png"
+                                }
+                              ]
+                            },
+                            {
+                              "name": "Sonu Chadha",
+                              "spouse": "?",
+                              "icon": "./static/default.png"
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Nisha Chadha",
+                          "spouse": "Chander Kiran Anand",
+                          "icon": "./static/default.png",
+                          "children": [
+                            {
+                              "name": "Kriti Anand",
+                              "spouse": "?",
+                              "icon": "./static/default.png"
+                            },
+                            {
+                              "name": "Raghu Anand",
+                              "spouse": "-",
+                              "icon": "./static/default.png"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
