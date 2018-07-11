@@ -103,4 +103,4 @@ plugins:
   - jekyll-admin
 
 jekyll-mentions:
-    base_url: https://github.com
+    base_url: https://ankit.tech

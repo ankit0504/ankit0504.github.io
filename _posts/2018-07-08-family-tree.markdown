@@ -7,7 +7,7 @@ tag: D3
 headerImage: true
 projects: true
 hidden: true # don't count this post in blog pagination
-description: "This is a simple, collapsable family tree that I made using D3"
+description: "This is a simple, collapsible family tree that I made using D3"
 category: project
 author: ankitgupta
 externalLink: false
