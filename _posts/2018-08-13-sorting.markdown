@@ -1,0 +1,31 @@
+---
+title: "Sorting Algorithms"
+layout: post
+date: 2018-08-13 10:10
+tag:
+- Python
+- Java
+# image:
+headerImage: true
+projects: true
+hidden: true # don't count this post in blog pagination
+description: "Various sorting algorithms"
+category: project
+author: ankitgupta
+externalLink: false
+---
+
+
+Technology used:
+
+- Python
+- Pytest
+- Java
+
+---
+Sorting algorithms were first introduced to me in my Data Structures & Algorithms course. We went through various algorithms and their runtimes; these algorithms included radix sort, selection sort, and merge sort. I really enjoyed the class as a whole, but particularly liked the section on these sorting algorithms. I was surprised to find that there were so many ways of doing a seemingly ordinary task, and that each algorithm worked differently depending on the inputted data. In class, we were given an assignment to code a k-way merge sort. You can find a link to that code below. <br>
+We did not code any other sorting algorithms, but I wanted to try my hand at it. During the semester I got busy, and then forgot about it for a while. Then in the summer following the semester, after implementing my Joey Tribbiani Chrome Extension, I wanted another personal project to work on. I had recently discovered the importance of developing while using integration and unit tests, so I decided to implement these sorting algorithms using a testing suite. At my internship, I had been using pytest for backend tests, so I stuck with that for this project. <br>
+I ended up implementing bubble, insertion, selection, counting, radix, and quick sort. I also found out about sleep sort while I was reading up on various sorting algorithms, so I included Rosetta Code's implementation of that in my repository because I thought it was kind of wild. <br>
+Note that my Data Structures & Algorithms course was taught in java, so k-way merge sort is implemented in java while the rest are in Python. <br>
+[GitHub Repository for this project](https://github.com/ankit0504/sorting)<br>
+[GitHub for k-way merge sort](https://github.com/ankit0504/CSE247/blob/master/labs/kwaymergesort/KWayMergeSort.java)

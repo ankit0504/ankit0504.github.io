@@ -8,7 +8,7 @@ I am a student in The School of Engineering & Applied Science at Washington Univ
 
 I was born in the United Kingdom and moved to the White Plains, NY when I was just a few months old. Since then, I have become a fan of hockey, tennis, and cricket.
 
-This summer, I am working as an intern at [Crossbeam](https://www.getcrossbeam.com), a startup in Philadelphia. During the school year, I work as a teaching assistant (TA) in various computer science courses. I previously TA'd in the introductory course, but will be a TA for Logic & Discrete Math, and Data Structures & Algorithms this fall semester.
+Last summer, I worked as an intern at [Crossbeam](https://www.getcrossbeam.com), a startup in Philadelphia. During the school year, I work as a teaching assistant (TA) in various computer science courses. I previously TA'd for the introductory course, but am now a TA for Logic & Discrete Math, and Data Structures & Algorithms.
 
 <h2>Skills</h2>
 
@@ -21,6 +21,7 @@ This summer, I am working as an intern at [Crossbeam](https://www.getcrossbeam.c
 	<li>HTML</li>
 	<li>LaTeX</li>
 	<li>Git</li>
+	<li>Docker</li>
 	<li>CAD</li>
 	<li>AVR Assembly</li>
 </ul>
