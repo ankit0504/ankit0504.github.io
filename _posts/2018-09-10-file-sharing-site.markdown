@@ -6,7 +6,7 @@ tag:
 - PHP
 - HTML
 - CSS
-image: ../assets/images/dashboard.png
+# image:
 headerImage: true
 projects: true
 hidden: true # don't count this post in blog pagination
@@ -16,6 +16,7 @@ author: ankitgupta
 externalLink: false
 ---
 
+![Screenshot](../assets/images/dashboard.png)
 
 Technology used:
 
