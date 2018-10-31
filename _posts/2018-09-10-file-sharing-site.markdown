@@ -23,6 +23,7 @@ Technology used:
 - PHP
 - HTML
 - CSS
+- Amazon EC2
 
 ---
 This project is the first one on this website that was not created by only me. I worked on this project with a classmate of mine in our "Rapid Prototype Development and Creative Programming" class.<br>
