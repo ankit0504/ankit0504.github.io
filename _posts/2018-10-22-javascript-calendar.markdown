@@ -32,5 +32,5 @@ Technology used:
 ---
 This is another project that I co-created in my Rapid Prototype Development and Creative Programming course. We created this calendar with an HTML template that we found online, Bootstrap for styling, PHP for web security things, and vanilla JavaScript for the functionality. <br>
 This calendar has functionality to add an event with a title, date and time, edit and delete an already-created event, share events with other users, and filter your calendar view by seeing high-priority events only.<br>
-All requests are handled by AJAX, so the calendar works on a single page and does not require any refreshes to see updates in the calendar.
+All requests are handled by AJAX, so the calendar works on a single page and does not require any refreshes to see updates in the calendar.<br>
 [Link to the login page](http://ec2-18-220-119-176.us-east-2.compute.amazonaws.com/~kfeinberg/module5/calendar.html)
