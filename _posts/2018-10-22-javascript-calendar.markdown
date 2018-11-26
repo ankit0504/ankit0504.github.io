@@ -8,6 +8,7 @@ tag:
 - Bootstrap
 - PHP
 - AJAX
+- Amazon EC2
 # image:
 headerImage: true
 projects: true

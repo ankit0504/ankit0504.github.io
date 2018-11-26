@@ -6,6 +6,7 @@ tag:
 - PHP
 - HTML
 - CSS
+- Amazon EC2
 # image:
 headerImage: true
 projects: true
