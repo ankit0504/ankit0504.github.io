@@ -29,6 +29,6 @@ Technology used:
 - Socket.io
 
 ---
-This is another project that I co-created in my Rapid Prototype Development and Creative Programming course. This project utilizes Node.js and Socket.io for communication between the server and the client. Bootstrap is used for the styling of the website, and JavaScript is used for the functionality.
+This is another project that I co-created in my Rapid Prototype Development and Creative Programming course. This project utilizes Node.js and Socket.io for communication between the server and the client. Bootstrap is used for the styling of the website, and JavaScript is used for the functionality.<br>
 This chat server allows users to create multiple rooms, join any open room, send a direct message to any user in their room, or create private rooms that are password protected. Fun features include changing the background color of a room, the ability for a room creator to ban a user from a room, and the ability for a room creator to kick a user from a room.<br>
 All actions are handled by Socket.io, so the chat room works on a single page and does not require any refreshes or new page-loads to function properly.<br>
