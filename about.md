@@ -16,9 +16,11 @@ During the school year, I work as a teaching assistant (TA) in various computer 
 
 <ul class="skill-list">
 	<li>Python - Flask</li>
-	<li>Javascript - Vue.js, Nuxtjs, Node.js</li>
+	<li>Javascript - Vue.js, React, Nuxtjs, Node.js</li>
 	<li>Java</li>
-	<li>SQL- PostgreSQL, SQLAlchemy</li>
+	<li>C++</li>
+	<li>SQL- MySQL, PostgreSQL, SQLAlchemy</li>
+	<li>PHP</li>
 	<li>CSS - Bootstrap</li>
 	<li>HTML</li>
 	<li>LaTeX</li>
@@ -26,7 +28,6 @@ During the school year, I work as a teaching assistant (TA) in various computer 
 	<li>Docker</li>
 	<li>CAD</li>
 	<li>AVR Assembly</li>
-	<li>C++</li>
 </ul>
 
 <!-- <h2>Projects</h2>
