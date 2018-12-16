@@ -4,7 +4,7 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-I am a student in The School of Engineering & Applied Science at Washington University in St. Louis obtaining a degree in computer science. I am also working towards earning a second major in economics and a minor in mathematics, both from the school of Arts & Sciences.
+Hi, my name is Ankit! I am a student in The School of Engineering & Applied Science at Washington University in St. Louis obtaining a degree in computer science. I am also working towards earning a second major in economics and a minor in mathematics, both from the school of Arts & Sciences.
 
 I first became aware of computer science in fourth grade, when I attended a weekly program held by IBM in their Armonk, NY headquarters. In the program, IBM brought in their software developers every Saturday to teach us about the fundamentals of computer science. This program taught me what algorithms were, and how to implement them using Scratch. This program is responsible for my consistent interest in computer science throughout my childhood.
 
