@@ -10,7 +10,7 @@ tag:
 headerImage: true
 projects: true
 hidden: true # don't count this post in blog pagination
-description: "Fingerpritn Payment"
+description: "Fingerprint Payment"
 category: project
 author: ankitgupta
 externalLink: false
